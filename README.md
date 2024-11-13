@@ -19,3 +19,6 @@ as per symptoms.
 • Sharing knowledge with mass people.
 • Creating awareness about Ovarian Cancer
 • Prescribe treatment and medicine according to the type of cancer
+
+# Architecture:
+This system is developed based on "Rule-based Architechture." It interacts with the user through a user interface, takes fact from the database, uses rules defined into the knowledge base and infer an answer.
